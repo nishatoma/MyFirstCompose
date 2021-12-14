@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ba111f4b-f3e6-4f20-8b35-0c4203daaa7e" name="Default Changelist" comment="" />
+    <list default="true" id="ba111f4b-f3e6-4f20-8b35-0c4203daaa7e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyKotlin/src/main/java/com/example/mykotlin/MyClass.kt" beforeDir="false" afterPath="$PROJECT_DIR$/MyKotlin/src/main/java/com/example/mykotlin/MyClass.kt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,7 +19,11 @@
       <ProjectState />
     </projectState>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="22CbbFZn9JRVcGBfCobp0brmXG9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -24,11 +31,12 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.17" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.MyClassKt">
+  <component name="RunManager" selected="Application.InterfaceExampleKt">
     <configuration name="MyKotlin" type="AndroidRunConfigurationType" factoryName="Android App">
       <module name="MyFirstCompose.MyKotlin" />
       <option name="DEPLOY" value="true" />
@@ -145,6 +153,19 @@
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="InterfaceExampleKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="MyFirstCompose.MyKotlin" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.example.mykotlin.InterfaceExampleKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MyClassKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="MyFirstCompose.MyKotlin" />
       <option name="VM_PARAMETERS" />
@@ -160,6 +181,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.InterfaceExampleKt" />
         <item itemvalue="Application.MyClassKt" />
       </list>
     </recent_temporary>
@@ -174,5 +196,16 @@
       <updated>1639344587782</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
