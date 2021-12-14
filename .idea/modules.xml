@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MyFirstCompose.iml" filepath="$PROJECT_DIR$/.idea/modules/MyFirstCompose.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MyKotlin/MyFirstCompose.MyKotlin.iml" filepath="$PROJECT_DIR$/.idea/modules/MyKotlin/MyFirstCompose.MyKotlin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/MyFirstCompose.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/MyFirstCompose.app.iml" />
+    </modules>
+  </component>
+</project>
